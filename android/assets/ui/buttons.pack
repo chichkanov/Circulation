@@ -1,0 +1,68 @@
+
+buttons.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button
+  rotate: false
+  xy: 1, 87
+  size: 220, 50
+  orig: 220, 50
+  offset: 0, 0
+  index: -1
+repeat
+  rotate: false
+  xy: 223, 9
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ach
+  rotate: false
+  xy: 1, 15
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+settings
+  rotate: false
+  xy: 353, 67
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+soundoff
+  rotate: false
+  xy: 73, 15
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+soundon
+  rotate: false
+  xy: 425, 67
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 145, 15
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 353, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+rate
+  rotate: false
+  xy: 419, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

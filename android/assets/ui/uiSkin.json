@@ -1,0 +1,19 @@
+{
+   "com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle" : {
+      "settings" : { "up" : "settings", "down" : "settings", "pressedOffsetX" : 0, "pressedOffsetY" : -3}
+      "soundon" : { "up" : "soundon", "down" : "soundon", "pressedOffsetX" : 0, "pressedOffsetY" : -3}
+      "soundoff" : { "up" : "soundoff", "down" : "soundoff", "pressedOffsetX" : 0, "pressedOffsetY" : -3}
+      "ach" : { "up" : "ach", "down" : "ach", "pressedOffsetX" : 0, "pressedOffsetY" : -3}
+      "top" : { "up" : "top", "down" : "top", "pressedOffsetX" : 0, "pressedOffsetY" : -3}
+      "repeat" : { "up" : "repeat", "down" : "repeat", "pressedOffsetX" : 0, "pressedOffsetY" : -3}
+      "back" : { "up" : "back", "down" : "back", "pressedOffsetX" : 0, "pressedOffsetY" : -3}
+      "rate" : { "up" : "rate", "down" : "rate", "pressedOffsetX" : 0, "pressedOffsetY" : -3}
+      "settingsButton" : { "up" : "button", "down" : "button", "pressedOffsetX" : 0, "pressedOffsetY" : -3}
+   },
+      
+   "com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle" : {      
+      "settingsButton" : { "up" : "button", "down" : "button", "pressedOffsetX" : 0, "pressedOffsetY" : -3}
+   }
+   
+   
+}
